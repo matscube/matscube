@@ -1,6 +1,12 @@
 ## 📈 GitHub Stats
-[![matscube's GitHub Streak](https://streak-stats.demolab.com/?user=matscube&theme=dark)](https://git.io/streak-stats)
+<p>
+  <img alt="" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matscube&langs_count=12&layout=compact&theme=aura">
+  <img alt="" height="200px" src="https://streak-stats.demolab.com/?user=matscube&theme=aura">
+</p>
 
-## Languages and Tools:
-![TypeSCript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-555?style=flat-square&logo=react)
+## My Skills
+### Languages:
+[![My Skills](https://skillicons.dev/icons?i=ts,js,php)](https://skillicons.dev)
+
+### Libraries & Frameworks:
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,vue,nuxt,laravel)](https://skillicons.dev)
